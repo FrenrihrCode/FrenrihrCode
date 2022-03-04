@@ -7,15 +7,15 @@
 ## 💡 Connect with me:
 
 <p align="left"> 
-  <a href="https://twitter.com/FrenrihrCode" target="blank">
+  <a href="https://twitter.com/FrenrihrCode" target="_blank">
     <img src="https://img.shields.io/twitter/follow/FrenrihrCode?logo=twitter&style=for-the-badge" alt="FrenrihrCode" />
   </a>
   &nbsp
-  <a href="https://www.linkedin.com/in/frenrihrcode/">
+  <a href="https://www.linkedin.com/in/frenrihrcode/" target="_blank">
     <img src="https://img.shields.io/badge/-Carlos%20Quispe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   &nbsp
-  <a href="mailto:carlos.quispe.q@tecsup.edu.pe">
+  <a href="mailto:carlos.quispe.q@tecsup.edu.pe" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlos.quispe.q@tecsup.edu.pe" />
   </a>
   &nbsp
